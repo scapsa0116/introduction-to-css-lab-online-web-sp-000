@@ -5,21 +5,23 @@ body
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
-div {width:700px;
-  /* Your code here! */
+div {width:700px; 
+     margin:auto;
+     front-family:"Helvetica Neue"
+     background: white;
 }
 
 /* ID selector to select the element with id 'main-header' */
-#main-header {margin:auto;}
+#main-header {
   /* Your code here! */
   color:red;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
-.perspective-questions {front-family:"Helvetica Neue";
+.perspective-questions {
   /* Your code here! */
 }
-  background: white;
+  
   /* Your code here! */
 }
 
