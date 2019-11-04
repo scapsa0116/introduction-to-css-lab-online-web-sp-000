@@ -10,7 +10,7 @@ div {width:700px;
 }
 
 /* ID selector to select the element with id 'main-header' */
-#main-header {margin:auto;
+#main-header {margin:auto;}
   /* Your code here! */
   color:red;
 }
@@ -19,7 +19,7 @@ div {width:700px;
 .perspective-questions {front-family:"Helvetica Neue";
   /* Your code here! */
 }
-
+  background: white;
   /* Your code here! */
 }
 
